@@ -2,8 +2,8 @@
 This is just a FiveM Cheat UI remade by me, it looks exactly like the real thing so have fun doing what ever lol
 
 <h3>
-  Credits: xo1337
-  Unknowncheats: https://www.unknowncheats.me/forum/members/3742498.html
+  <li>  Credits: xo1337 </li>
+  <li>  Unknowncheats: https://www.unknowncheats.me/forum/members/3742498.html </li>
   
-  #primerose gang
+  <li> #primerose gang
 </h3>
